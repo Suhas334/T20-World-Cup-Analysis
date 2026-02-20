@@ -37,7 +37,7 @@ Through structured analysis and visualizations, the project highlights how data-
 Teams winning the toss had a slight advantage (~56%), but toss alone did not guarantee match victory.
 
 ### 🏃 Chasing vs Defending
-Chasing teams won approximately 54.5% of matches, indicating a moderate advantage when knowing the target score.
+Defending teams won approximately 54.5% of matches, indicating a moderate advantage when Team batting first.
 
 ### 🎯 Scoring Trends
 - Average first-innings score: ~134 runs  
